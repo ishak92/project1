@@ -1,0 +1,4 @@
+superLibFun()
+{
+make all happy;
+}
