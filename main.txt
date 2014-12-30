@@ -1,4 +1,5 @@
 int main()
 {
 hello world;
+supperLibFun();
 }
